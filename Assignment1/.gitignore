@@ -1,0 +1,5 @@
+# Ignore clion files
+.idea/*
+cmake-build-debug/*
+CMakeCache.txt
+CMakeFiles/*
